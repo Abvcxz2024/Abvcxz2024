@@ -1,5 +1,4 @@
-### Hi there 👋
-he/him
+he/him HKUST
 I am learning coding. Learning kotlin and wanna build mobile app with it.
 
 <!--
