@@ -1,5 +1,5 @@
 he/him HKUST
-I am learning coding. Learning kotlin and wanna build mobile app with it.
+I am learning coding. Learning kotlin and wanna build mobile app with it.😊😊😊
 
 <!--
 **Abvcxz2024/Abvcxz2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
